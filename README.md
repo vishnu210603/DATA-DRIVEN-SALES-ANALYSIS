@@ -1,5 +1,5 @@
 Download the repository as zip file and then 
-Open the Sales Data Analysis Dashboard in Power BI and click on "Build Vissual" on right side.
+Open the Sales Data Analysis Dashboard in Power BI and click on "Build Visual" on right side.
 You will see the dashboard.
 Drive Link: https://drive.google.com/drive/u/0/folders/15Vnblo85el1Axll99SZOoIuVsqwyw9ql
 The dashboard will look like this.
